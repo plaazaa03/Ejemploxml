@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html [
+  <!ELEMENT html (head, body)>
+  <!ELEMENT head (title)>
+  <!ELEMENT body (h1|h2|h3|h4|p|img|ul|ol|strong|br|hr)*>
+  <!ELEMENT title (#PCDATA)>
+  <!ELEMENT a (#PCDATA)>
+  <!ATTLIST a href CDATA #REQUIRED>
+  <!ELEMENT p (#PCDATA|a|img)*>
+  <!ELEMENT h1 (#PCDATA)>
+  <!ELEMENT h2 (#PCDATA)>
+  <!ELEMENT h3 (#PCDATA)>
+  <!ELEMENT h4 (#PCDATA)>
+  <!ELEMENT img EMPTY>
+  <!ATTLIST img src CDATA #REQUIRED>
+  <!ATTLIST img width CDATA #REQUIRED>
+  <!ATTLIST img height CDATA #REQUIRED>
+  <!ELEMENT ul (li)*>
+  <!ELEMENT ol (li)*>
+  <!ELEMENT li (#PCDATA)>
+  <!ELEMENT strong (#PCDATA)>
+  <!ELEMENT br EMPTY>
+  <!ELEMENT hr EMPTY>
+]>
+
+<html>
+  <head>
+    <title>Primer ejemplo de HTML</title>
+  </head>
+  <body>
+    <h1>Madrid</h1>
+    <p>Esta cuiudad es la capital de <a href="https://es.wikipedia.org/wiki/Espa%C3%B1a">España</a>, aqui mostramos una imagen <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Sp-map-es.png/270px-Sp-map-es.png" width="30" height="30"/>.</p>
+      <p>Platos mas tipicos de España:</p>
+    <ul>
+      <li>Pella</li>
+      <li>Tortilla de patatas</li>
+    </ul>
+     <p>Palabras mas buscadas en España:</p>
+    <ol>
+      <li>Traductor</li>
+      <li>Tiempo</li>
+    </ol>
+        <br/>
+           <hr/> 
+    <h2>Lisboa</h2>
+    <p>Esta ciudad es la capital de <a href="https://es.wikipedia.org/wiki/Portugal">Portugal</a>, aqui mostramos una imagen <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Portugal_regions_travel_map_EN.png/800px-Portugal_regions_travel_map_EN.png" width="30" height="30"/>.</p>
+      <p>Platos mas tipicos de Portugal:</p>
+    <ul>
+      <li>Bacalao</li>
+      <li>Sardinas</li>
+    </ul>
+     <p>Cosas que mas se venden en Portugal:</p>
+    <ol>
+      <li>Ropa</li>
+      <li>Accesorios</li>
+      <li>Calzados</li>
+    </ol>
+        <br/>
+           <hr/>
+    <h3>Berlín</h3>
+    <p>Esta cuiudad es la capital de <a href="https://es.wikipedia.org/wiki/Alemania">Alemania</a>, aqui mostramos una imagen <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/EU-Germany.svg/300px-EU-Germany.svg.png" width="30" height="30"/>.</p>
+      <p>Platos mas tipicos de España:</p>
+    <ul>
+      <li>Salchichas</li>
+      <li>Brezel</li>
+    </ul>
+     <p>Palabras mas buscadas en Alemania:</p>
+    <ol>
+      <li>die Bundesregierung (Gobierno Federal)</li>
+      <li>die Bundesrepublik (Republiva Federal)</li>
+    </ol>
+        <br/>
+           <hr/>
+    <h4>Roma</h4>
+    <p>Esta cuiudad es la capital de <a href="https://es.wikipedia.org/wiki/Italia">Italia</a>, aqui mostramos una imagen <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/EU-Italy.svg/250px-EU-Italy.svg.png" width="30" height="30"/>.</p>
+      <p>Platos mas tipicos de Italia: </p>
+    <ul>
+      <li>Pasta</li>
+      <li>Pizza</li>
+    </ul>
+     <p>Palabras mas usadas en Italia:</p>
+    <ol>
+      <li>ciao</li>
+      <li>Arrivederci</li>
+      <li>Buongiorno</li>
+      <li>Buonosera</li>
+    </ol>
+    <strong>Hecho por Raul Plaza Galvez</strong> 
+
+    <hr/>
+  </body>
+</html>

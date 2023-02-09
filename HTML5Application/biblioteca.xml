@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<biblioteca user="589332" id="74658976347">
+    <ubicacion>
+        <seccion>A</seccion>
+        <estanteria>muchas</estanteria>
+    </ubicacion>
+    <libro>
+        <titulo>micasa</titulo>
+        <isbn>fddsg</isbn>
+        <idioma>Español</idioma>
+        <autores>Elma maria rico</autores>
+        <categorias>comedia</categorias>
+        <edicion>3º</edicion>
+        <año>2003</año>
+        <editorial>castelar</editorial>
+        <resumen>todos mueren en la orgia</resumen>
+    </libro>
+    <ejemplar>
+        <estado>Bien</estado>
+        <fecha>12/04/1998</fecha>
+        <listado>muchpo</listado>
+    </ejemplar>
+    <prestamo>
+        <usuario>Raul</usuario>
+        <fecha_prestamo>02/04/2000</fecha_prestamo>
+        <fecha_devolucion>03/05/2000</fecha_devolucion>
+    </prestamo>
+    <usuario>
+        <nombre>Raul</nombre>
+        <apellidos>Plaza Galvez</apellidos>
+        <fecha_nacimiento>03/04/2003</fecha_nacimiento>
+        <documento>no tiene</documento>
+    </usuario>
+</biblioteca>
+

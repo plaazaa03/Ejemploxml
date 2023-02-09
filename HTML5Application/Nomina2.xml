@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XMLDocument.xml to edit this template
+-->
+
+
+
+<facturas>
+    <numero>999</numero>
+    <izquierda>
+        <empresa>Equipos Digitales S.L</empresa>
+        <direccion>AV.Valladolid</direccion>
+        <ciudad>Madrid 28015</ciudad>
+        <c.i.f>Q-9876543</c.i.f>
+        <telefono>25.698.13.12</telefono>
+        <fax>91.231.12.36</fax>
+    </izquierda>
+    <derecha>
+        <fecha>12-01-2005</fecha>
+        <pedido>nº 731</pedido>
+        <pago>EFECTIVO</pago>
+    </derecha>
+    <datos_cliente>
+        <cliente>
+            <numero>879</numero>
+            <nombre> Dario Bueno Gutierrez</nombre>
+            <direccion_envio>AV. Oporto nº7 4ºd</direccion_envio>
+            <poblacion>Madrid</poblacion>
+            <cod_postal>28043</cod_postal>
+            <provincia>Madrid</provincia>
+        </cliente> 
+    </datos_cliente>
+    <datos_factura>
+        <factura>
+            <ref>dfhjagsfha</ref>
+            <descripcion>MICRO PENTIUM IV 3000MHZ FB8000</descripcion>
+            <cant>1</cant>
+            <precio>230 eur</precio>
+            <i.v.a>16.0</i.v.a>
+            <importe>266.0 eur</importe>
+        </factura>
+        <factura>
+            <ref>dfhjagsfha</ref>
+            <descripcion>PLACA BASE QDI P4</descripcion>
+            <cant>1</cant>
+            <precio>180 eur</precio>
+            <i.v.a>16.0</i.v.a>
+            <importe>208.0 eur</importe>
+        </factura>
+        <factura>
+            <ref>dfhjagsfha</ref>
+            <descripcion>DIMM DDR 512MB 3200</descripcion>
+            <cant>2</cant>
+            <precio>40 eur</precio>
+            <i.v.a>16.0</i.v.a>
+            <importe>92.80 eur</importe>
+        </factura>
+        <factura>
+            <ref>dfhjagsfha</ref>
+            <descripcion>DISCO DURO 250GB S-ATA 7200</descripcion>
+            <cant>4</cant>
+            <precio>120 eur</precio>
+            <i.v.a>16.0</i.v.a>
+            <importe>556.80 eur</importe>
+        </factura>
+        <base_imponible>
+            <importe>970.00 eur</importe>
+        </base_imponible>
+        
+        <iva>16.0</iva>
+        <cuota_iva>155.20 eur</cuota_iva>
+        
+        <total_factura>1125.20 eur</total_factura>
+    </datos_factura>
+</facturas>
+

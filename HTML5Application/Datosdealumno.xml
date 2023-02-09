@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<proyecto>
+    <ciclo>DAM</ciclo>
+    <curso>segundo</curso>
+    <nombre>Gerardo</nombre>
+    <apellidos>Marín Jimenez</apellidos>
+    <titulo>Facepi</titulo>
+    <intro>hjsgdfhjgsadjfgsa</intro>
+    <finalidad>hfhsdagfhdkasghj</finalidad>
+    <objetivos>
+        <objetivo>Adquisión de HW</objetivo>
+         <objetivo>Instalacion del SO</objetivo>
+          <objetivo>Puesta a ounto de AWS</objetivo>
+    </objetivos>
+    <medios>
+        <medio>Equipo Windows</medio>
+        <medio>Raps berry</medio>
+        <medio>Camara</medio>
+    </medios>
+    <planificacion>sdyhfjudashfkjasdghfdasgh</planificacion>
+</proyecto>
+

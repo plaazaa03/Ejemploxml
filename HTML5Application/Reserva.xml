@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<solicitudes>
+<reserva id="69" fecha_solicitud="1/12/2022">
+    <nombre>Raul</nombre>
+    <telefono>987456321</telefono>
+    <E-mail>raulplaza209#gmail.com</E-mail>
+    <fecha>03/09/2003</fecha>
+    <personas>3</personas>
+    <presupuesto>58</presupuesto>
+    <comentario>gfkjasgfkj</comentario>
+       <estado>rechazado</estado>
+</reserva>
+
+<reserva id="68" fecha_solicitud="1/11/2022">
+    <nombre>Manuel</nombre>
+    <telefono>987456321</telefono>
+    <E-mail>raul209#gmail.com</E-mail>
+    <fecha>03/09/2023</fecha>
+    <personas>8</personas>
+    <presupuesto>190</presupuesto>
+    <comentario>ajisdghuiaryghurgswhu</comentario>
+    <estado>aceptado</estado>
+    
+</reserva>
+
+
+
+
+</solicitudes>
+
+
